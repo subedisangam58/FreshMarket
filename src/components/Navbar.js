@@ -12,7 +12,7 @@ export default function Navbar() {
     //     const textArray = Array.from(elementsToTranslate).map(el => el.innerText);
         
     //     try {
-    //         const response = await fetch(`https://translation.googleapis.com/language/translate/v2?key=AIzaSyBJsHY9DQpiYxM0xpAdKG5qz2P-Ca6lMFs`, {
+    //         const response = await fetch(`https://translation.googleapis.com/language/translate/v2?key=YOUR_API_KEY`, {
     //             method: 'POST',
     //             headers: { 'Content-Type': 'application/json' },
     //             body: JSON.stringify({
